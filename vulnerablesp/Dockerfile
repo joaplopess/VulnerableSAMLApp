@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 
 RUN apt-get update -y
 RUN apt-get install -y python2.7 python2.7-dev libxmlsec1 libxmlsec1-dev git python-pip python-dev build-essential nginx
