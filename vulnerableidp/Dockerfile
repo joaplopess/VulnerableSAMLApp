@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210114
 
 #ENV http_proxy=''
 #ENV https_proxy=''
